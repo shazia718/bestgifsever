@@ -1,0 +1,67 @@
+#main {
+	background-image: url('http://www.ohpopsi.com/images/wallpaper/fullsize/shutterstock_92586151.jpg');
+	background-position: center;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: 100% 100%;
+	font-family: 'Baloo Chettan', cursive;
+
+}
+
+#sec {
+    background-image: url('https://lh6.googleusercontent.com/-cagKmqpjVGk/VQWI_xbB7PI/AAAAAAAAAOY/Ntccd0dqcXs/w1600-h808/back%2Bme.png');
+    background-position: center;
+    background-repeat: repeat;
+    background-attachment: fixed;
+    font-family: 'Raleway', sans-serif;
+}
+
+#third {
+    background-image: url('https://nypdecider.files.wordpress.com/2014/10/bobs-burgers.png');
+	background-position: center;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: 100% 100%;
+    font-family: 'Raleway', sans-serif;
+}
+
+.navbar {
+	width: 700px;
+	margin:0 auto;
+	background-color: white;
+}
+
+a {
+	padding:30px;
+}
+
+div img {
+	height: 150px;
+	width: 250px;
+	display: inline-block;
+	padding: 10px;
+}
+
+p {
+	width: 600px;
+	background-color: ;
+}
+
+.pg1 {
+	margin: 0px 100px;
+	color: #AED6F1;  
+}
+
+.pg2 {
+	margin: 0px 100px;
+	color: black;  
+}
+
+.pg3 {
+	margin: 0px 100px;
+	color: #6b1401;  
+}
+
+.img1 {
+	margin: 0px 100px;
+}

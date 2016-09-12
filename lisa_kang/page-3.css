@@ -1,0 +1,25 @@
+body {
+    background-image: url('https://67.media.tumblr.com/42c43db9e24be54aed7d9539b424b00d/tumblr_o5dlkfomP41ruzgnwo1_500.jpg');
+    background-position: center;
+    background-repeat: repeat;
+    background-attachment: fixed;
+}
+
+.navbar {
+	width: 700px;
+	margin:0 auto;
+	background-color: white;
+}
+
+a {
+	padding:30px;
+}
+
+div img {
+	display: inline-block;
+}
+
+.pg3 {
+	margin: 0px 100px;
+	color: #AED6F1;  
+}

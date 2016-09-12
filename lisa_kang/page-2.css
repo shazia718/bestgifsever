@@ -1,0 +1,25 @@
+body {
+    background-image: url('https://lh6.googleusercontent.com/-cagKmqpjVGk/VQWI_xbB7PI/AAAAAAAAAOY/Ntccd0dqcXs/w1600-h808/back%2Bme.png');
+    background-position: center;
+    background-repeat: repeat;
+    background-attachment: fixed;
+}
+
+.navbar {
+	width: 700px;
+	margin:0 auto;
+	background-color: white;
+}
+
+a {
+	padding:30px;
+}
+
+div img {
+	display: inline-block;
+}
+
+.pg2 {
+	margin: 0px 100px;
+	color: #AED6F1;  
+}

@@ -1,0 +1,43 @@
+
+
+.list-images{
+	height: 300px;
+	width: 300px;
+	background-color: black;
+	opacity: 1;
+	color: white;
+	border-style: solid;
+	border-color: pink;
+	border-width: 15px;
+	margin: 10px;
+	border-radius: 10px;
+	
+	
+}
+
+html, body{
+	background-color: black;
+	background-size: 100%;
+	/*background-repeat: no-repeat;*/
+	background-attachment: fixed;
+	
+}
+
+.one{
+	background-color: black;
+	opacity: 1;
+	color: white;
+	height: 100px;
+	background-image: url(https://hd.unsplash.com/photo-1472162072942-cd5147eb3902);
+
+}
+
+.type{
+	
+	color: pink;
+
+}
+
+.row{
+	padding: 30px;
+}

@@ -1,0 +1,17 @@
+body {
+	background-color: #4F6D7A;
+	text-align: center;
+	color: #F5E6E8;
+	font-family: Chewy;
+	font-size: 1.75em;
+}
+a {
+	text-decoration: none;
+	color: #F5E6E8;
+}
+a:hover {
+	color: #BFC0C0;
+}
+a:visited {
+	color: #96939B;
+}

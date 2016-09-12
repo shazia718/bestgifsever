@@ -1,0 +1,28 @@
+body {
+    background-color: black;
+}
+
+h1 {
+	background: orange;
+	text-align: center;
+	padding: 30px;
+}
+
+nav {
+	/*position: fixed;*/
+	/*margin: 0 auto;*/
+	transform: translate(25%, -20%);
+}
+
+li {
+	display: inline;
+    list-style-type: none;
+}
+
+button:hover {
+	background: orange;
+}
+
+#random {
+	display: block;
+}
